@@ -1,0 +1,43 @@
+# Ad Trackers
+0.0.0.0 doubleclick.net
+0.0.0.0 pagead2.googlesyndication.com
+0.0.0.0 adservice.google.com
+0.0.0.0 ad.doubleclick.net
+0.0.0.0 media.net
+0.0.0.0 stats.g.doubleclick.net
+0.0.0.0 ads.pinterest.com
+0.0.0.0 adcolony.com
+0.0.0.0 adservetx.media.net
+
+# Social Media Trackers
+0.0.0.0 pixel.facebook.com
+0.0.0.0 an.facebook.com
+0.0.0.0 ads-api.twitter.com
+0.0.0.0 static.ads-twitter.com
+0.0.0.0 ads.linkedin.com
+0.0.0.0 log.pinterest.com
+0.0.0.0 trk.pinterest.com
+
+# Analytics Trackers
+0.0.0.0 google-analytics.com
+0.0.0.0 ssl.google-analytics.com
+0.0.0.0 click.googleanalytics.com
+0.0.0.0 realtime.luckyorange.com
+0.0.0.0 upload.luckyorange.net
+0.0.0.0 settings.luckyorange.net
+0.0.0.0 cdn-test.mouseflow.com
+0.0.0.0 api.mouseflow.com
+0.0.0.0 cdn.mouseflow.com
+
+# Error Trackers
+0.0.0.0 notify.bugsnag.com
+0.0.0.0 sessions.bugsnag.com
+0.0.0.0 browser.sentry-cdn.com
+
+# Hotjar (User Interaction Tracking)
+0.0.0.0 insights.hotjar.com
+0.0.0.0 surveys.hotjar.com
+0.0.0.0 script.hotjar.com
+0.0.0.0 identify.hotjar.com
+0.0.0.0 claritybt.freshmarketer.com
+0.0.0.0 events.hotjar.io
